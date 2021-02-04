@@ -26,7 +26,7 @@ To connect the LCD to your Raspberry Pi in 4 bit mode, set it up like this:
 The potentiometers here can also be substituted with 1K or 3K Ohm resistors.
 
 ## PROGRAMMING THE LCD WITH PYTHON
-If this is your first time writing and running a Python program, you might want to read [How to Write and Run a Python Program on the Raspberry Pi](https://www.circuitbasics.com/?p=214283){:target="_blank"}., which will explain everything you need to know to run the examples below.
+If this is your first time writing and running a Python program, you might want to read [How to Write and Run a Python Program on the Raspberry Pi](https://www.circuitbasics.com/?p=214283), which will explain everything you need to know to run the examples below.
 
 We’ll be using a Python library that provides a lot of useful functions. Its called the RLPCD library, and was written by Danilo Bargen.
 
