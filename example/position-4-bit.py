@@ -13,7 +13,7 @@ from RPi import GPIO                        # This is the library which we will 
 # Initializing the LCD Display
 lcd = CharLCD(numbering_mode=GPIO.BOARD, rows=2, pin_rs=37, pin_e=35, pins_data=[33, 31, 29, 23])
 
-lcd.cursor_pos = (1, 3) 										# This will place the cursor at row=(1+1)=2 and col=(3+1)=4
+lcd.cursor_pos = (1, 3)                     # This will place the cursor at row=(1+1)=2 and col=(3+1)=4
 lcd.write_string("Hello world!")
 
 # Always Clean Up the GPIO after using the code
