@@ -18,8 +18,8 @@ lcd = CharLCD(numbering_mode=GPIO.BOARD, cols=16, rows=2, pin_rs=37, pin_e=35, p
 lcd.write_string("Hello world!")
 
 lcd.cursor_mode = "blink"
-## lcd.cursor_mode = "line"
-## lcd.cursor_mode = "hide"
+# lcd.cursor_mode = "line"
+# lcd.cursor_mode = "hide"
 
 # Always Clean Up the GPIO after using the code
 GPIO.cleanup()
