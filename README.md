@@ -55,3 +55,6 @@ sudo pip install RPLCD
 ````
 
 The example programs in the Example folder use the Raspberry Pi’s physical pin numbers, not the BCM or GPIO numbers. I’m assuming you have your LCD connected the way it is in the diagrams above, but I’ll show you how to change the pin connections if you need to.
+
+## Most Important
+Except write-8-bit.py all the examples are written for 4 Bit Mode.
