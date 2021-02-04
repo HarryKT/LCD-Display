@@ -17,4 +17,4 @@ while True:
     lcd.clear()
     time.sleep(1)
     
-## Press Ctrl+C to exit the program.
+# Press Ctrl+C to exit the program.
