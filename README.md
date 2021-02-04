@@ -11,4 +11,4 @@ Theoretically, 8 bit mode transfers data about twice as fast as 4 bit mode, sinc
 ## WIRING THE LCD IN 8 BIT MODE
 To connect your LCD in 8 bit mode set it up like this:
 
-![alt text](https://github.com/HarryKT/LCD-Display/blob/[branch]/image.jpg?raw=true)
+<img src="https://github.com/HarryKT/LCD-Display/blob/main/images/Raspberry-Pi-LCD-8-Bit-Mode-Connection-Diagram-768x1024.png" alt="Wiring for 8 Bit Mode">
